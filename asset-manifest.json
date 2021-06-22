@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/creamheroes/static/css/main.ce50f742.chunk.css",
+    "main.js": "/creamheroes/static/js/main.69704035.chunk.js",
+    "main.js.map": "/creamheroes/static/js/main.69704035.chunk.js.map",
+    "runtime-main.js": "/creamheroes/static/js/runtime-main.5b76c391.js",
+    "runtime-main.js.map": "/creamheroes/static/js/runtime-main.5b76c391.js.map",
+    "static/js/2.781addfa.chunk.js": "/creamheroes/static/js/2.781addfa.chunk.js",
+    "static/js/2.781addfa.chunk.js.map": "/creamheroes/static/js/2.781addfa.chunk.js.map",
+    "static/js/3.14e6b4a7.chunk.js": "/creamheroes/static/js/3.14e6b4a7.chunk.js",
+    "static/js/3.14e6b4a7.chunk.js.map": "/creamheroes/static/js/3.14e6b4a7.chunk.js.map",
+    "index.html": "/creamheroes/index.html",
+    "static/css/main.ce50f742.chunk.css.map": "/creamheroes/static/css/main.ce50f742.chunk.css.map",
+    "static/js/2.781addfa.chunk.js.LICENSE.txt": "/creamheroes/static/js/2.781addfa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b76c391.js",
+    "static/js/2.781addfa.chunk.js",
+    "static/css/main.ce50f742.chunk.css",
+    "static/js/main.69704035.chunk.js"
+  ]
+}
